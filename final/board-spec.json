@@ -1,0 +1,39 @@
+{
+  "brand": "BHAPtik",
+  "tagline": "Batik, wrapped the Japanese way",
+  "brief": "Indonesian lifestyle accessories for Gen Z - totes, caps, keychains, woven labels, tags, packaging. Batik meets Japanese aesthetics; a modern lifestyle brand first, a cultural one second.",
+  "adjectives": ["modern", "playful", "crafted", "bold"],
+  "criteria": "Success: reads as a wrapped furoshiki at a glance, shows parang and seigaiha without intricate batik, works in pure black and white, survives 16 px and embroidery.",
+  "mockups": ["tote", "shopping-bag", "tshirt", "box", "sticker", "social"],
+  "brand_color": "#1A1614",
+  "tile_color": "#1A1614",
+  "greyscale": false,
+  "final": true,
+  "designer": "BHAPtik",
+  "round": 5,
+  "concepts": [
+    {
+      "name": "Furoshiki Bundle",
+      "symbol": "svg/bhaptik-symbol-black.svg",
+      "lockup": "svg/bhaptik-horizontal-black.svg",
+      "stacked": "svg/bhaptik-stacked-black.svg",
+      "symbol_on_tile": "svg/bhaptik-symbol-cream.svg",
+      "symbol_on_dark": "svg/bhaptik-symbol-cream.svg",
+      "lockup_on_dark": "svg/bhaptik-horizontal-cream.svg",
+      "stacked_on_tile": "svg/bhaptik-stacked-cream.svg",
+      "idea": "A furoshiki cloth tied into a bundle, printed with parang rusak and wrapping a row of seigaiha waves.",
+      "rationale": [
+        "Furoshiki = the Japanese way of wrapping, the brand's product world",
+        "Parang band with its mlinjo bars = the Indonesian batik side, kept bold, not intricate",
+        "Seigaiha waves = the Japanese pattern side; one connected ink shape for print, embroidery and stamps",
+        "Small-size cut with one band and one wave row for favicon, avatar and woven label"
+      ]
+    }
+  ],
+  "recommendation": "Furoshiki Bundle with the BHAPtik wordmark: black on cream as the primary, cream on black as the reverse, pink only on the knot and ears on dark grounds.",
+  "next_steps": [
+    "Trademark search in Indonesia (DJKI) and target markets",
+    "Flatten the mask into plain shapes (Pathfinder) for embroidery and die-cut files",
+    "Embroidery and woven-label test at the smallest planned size"
+  ]
+}
